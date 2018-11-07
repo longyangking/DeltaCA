@@ -1,0 +1,5 @@
+To-Do List
+
+1. Understand the CUDA and finish the logical computation part without considering the graphical interface of OpenGL;
+2. Test the CUDA's realizations based on the CPU cases or some benchmarks;
+3. To realize a graphical interface with OpenGL.
